@@ -14,7 +14,7 @@
             <h2>Цындяйкин Алексей Петрович</h2>
 
          <div class="inter">
-            <p><img src ="img/I_am.jpg" alt="I_am" height="200px"></p>
+            <p><img src ="/home/alex/Загрузки/I_am.jpg" alt="I_am" height="200px"></p>
             <p>Компьютерщик, сборщик сварочных инверторов</p>
          </div>
             <hr> 
