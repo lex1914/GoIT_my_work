@@ -1,0 +1,29 @@
+h2 {
+	text-align: center;
+}
+
+	.inter {
+	text-align: center;
+
+}
+
+
+.all {
+	/*margin-left: 300px;*/ 
+	background: grey;
+	background-position: center;
+}
+
+.list {
+	margin-bottom: 50px;	
+	margin-left: 350px;
+	background-color: white;
+	height: 750px;
+	width: 500px;
+	padding: 2px 50px 20px;
+	/*height: 1000px;
+	width: 800px;*/
+	 -webkit-box-shadow: 10px 9px 15px -6px rgba(0,0,0,0.78);
+     -moz-box-shadow: 10px 9px 15px -6px rgba(0,0,0,0.78);
+     box-shadow: 10px 9px 15px -6px rgba(0,0,0,0.78);
+}
