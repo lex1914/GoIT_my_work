@@ -5,7 +5,7 @@
         <meta charset="utf-8">
         <link rel="stylesheet" type="text/css" href="css/style.css">
     </head>
-<body bgcolor="#DBDBDB">
+<body bgcolor="grey">
       
 
 <!--<div class="all"> Данный тег с классом, на тот случай, если не трогать тег <body> для фона страницы-->
@@ -36,4 +36,3 @@
    <!--</div>-->
  </body>
 </html>
-
