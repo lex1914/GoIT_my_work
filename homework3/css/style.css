@@ -97,7 +97,7 @@ h1 {
 	padding: 10px;
 	margin-left: 1px;
 	margin-bottom: 2.2px;
-	margin-top: 2.1px;
+	margin-top: 1.8px;
 	display: block;
 }
 
@@ -105,11 +105,11 @@ a {
 	text-decoration: none;
 	color: #2c2c2c;
 }
-}
 
-  .click-color {
+.click-color {
 	background-color: #f9f9f9;
-	margin-left: 2px;
+	/*margin-left: 10px;*/
+	/*padding-top: 11px;*/
 	}
 
 .right_column {
@@ -139,7 +139,6 @@ p {
 	font-size: 13.3px;
 	padding-right: 25px;
 	padding-left: 25px;
-
 }
 
 
@@ -156,10 +155,9 @@ footer {
     box-shadow: 0px 4px 4px 0px rgba(0,0,0,0.46);
     border-right: 1px solid #dbdbdb;
     border-left: 1px solid #dbdbdb;
-
-
 }
 	
+
 .panel {
   font-size: 13.333px;
   font-family: "Sans";
