@@ -7,7 +7,7 @@
 
 header {
 	width: 1060px;
-	margin: 0 auto;
+	margin: auto;
 	padding-left: 45px;
 	padding-right: 45px;
 	padding-top: 50px;
@@ -19,9 +19,16 @@ header {
     box-shadow: 0px 4px 4px 0px rgba(0,0,0,0.46);
     border-right: 1px solid #dbdbdb;
     border-left: 1px solid #dbdbdb;
+    border-bottom: transparent 0;
 }
 
-
+.content_page {
+	border-top: transparent 0;
+	border-bottom: transparent 0;
+	padding-bottom: 0;
+	margin-top: 0;
+	margin-bottom: 0;
+}
 
 h1 {
 	display: inline-block;
@@ -142,6 +149,7 @@ p {
 	font-size: 13.3px;
 	padding-right: 25px;
 	padding-left: 25px;
+	text-align: left;
 }
 
 
@@ -158,6 +166,7 @@ footer {
     box-shadow: 0px 4px 4px 0px rgba(0,0,0,0.46);
     border-right: 1px solid #dbdbdb;
     border-left: 1px solid #dbdbdb;
+    border-top: transparent 0;
 }
 	
 
